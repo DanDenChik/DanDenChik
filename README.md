@@ -1,4 +1,4 @@
-## My name is Danial Iskakov, I am 18 y.o developer from Kazakhstan, currently studying in City University of Hong Kong.
+# My name is Danial Iskakov, I am 18 y.o developer from Kazakhstan, currently studying in City University of Hong Kong.
 
 ## My Tech Stack
 ![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=009688&color=black)
